@@ -28,7 +28,7 @@ Variables
 body {
   font-family: "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
   color: var(--mainBlue);
-  background: var(--mainBackground);
+  background: red;
   line-height: 1.4;
   font-size: 1rem;
   font-weight: 300;
